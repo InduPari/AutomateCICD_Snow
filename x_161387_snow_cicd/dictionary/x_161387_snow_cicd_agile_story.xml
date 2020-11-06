@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Agile_Story" max_length="40" name="x_161387_snow_cicd_agile_story" type="collection">
+        <element label="Description" max_length="200" name="description" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <element label="Story_Number" max_length="40" name="story_number" type="string"/>
+    </element>
+</database>

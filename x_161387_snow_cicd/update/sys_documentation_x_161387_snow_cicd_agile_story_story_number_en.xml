@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="story_number" label="Story_Number" language="en" table="x_161387_snow_cicd_agile_story">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>story_number</element>
+            <help/>
+            <hint/>
+            <label>Story_Number</label>
+            <language>en</language>
+            <name>x_161387_snow_cicd_agile_story</name>
+            <plural>Story_Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-06 22:21:17</sys_created_on>
+            <sys_id>52a1700edbdc2010669b4870399619a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Story_Number</sys_name>
+            <sys_package display_value="Snow-CICD" source="x_161387_snow_cicd">9a6da00adbdc2010669b4870399619d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Snow-CICD">9a6da00adbdc2010669b4870399619d6</sys_scope>
+            <sys_update_name>sys_documentation_x_161387_snow_cicd_agile_story_story_number_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-06 22:21:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

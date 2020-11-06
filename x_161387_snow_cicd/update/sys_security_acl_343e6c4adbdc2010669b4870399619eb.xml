@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_161387_snow_cicd_test_deployment_request</description>
+        <name>x_161387_snow_cicd_test_deployment_request</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-06 22:06:09</sys_created_on>
+        <sys_id>343e6c4adbdc2010669b4870399619eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161387_snow_cicd_test_deployment_request</sys_name>
+        <sys_package display_value="Snow-CICD" source="x_161387_snow_cicd">9a6da00adbdc2010669b4870399619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow-CICD">9a6da00adbdc2010669b4870399619d6</sys_scope>
+        <sys_update_name>sys_security_acl_343e6c4adbdc2010669b4870399619eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-06 22:06:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

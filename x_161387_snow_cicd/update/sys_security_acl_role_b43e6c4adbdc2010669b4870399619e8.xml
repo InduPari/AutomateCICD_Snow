@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-06 22:06:09</sys_created_on>
+        <sys_id>b43e6c4adbdc2010669b4870399619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161387_snow_cicd_test_deployment_request.x_161387_snow_cicd.test_deployment_request_user</sys_name>
+        <sys_package display_value="Snow-CICD" source="x_161387_snow_cicd">9a6da00adbdc2010669b4870399619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Snow-CICD">9a6da00adbdc2010669b4870399619d6</sys_scope>
+        <sys_security_acl display_value="x_161387_snow_cicd_test_deployment_request">383e6c4adbdc2010669b4870399619e5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b43e6c4adbdc2010669b4870399619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-06 22:06:09</sys_updated_on>
+        <sys_user_role display_value="x_161387_snow_cicd.test_deployment_request_user" name="x_161387_snow_cicd.test_deployment_request_user">a03e684adbdc2010669b48703996193b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

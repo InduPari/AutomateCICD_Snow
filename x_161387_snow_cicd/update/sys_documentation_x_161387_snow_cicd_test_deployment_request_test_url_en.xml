@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test_url" label="Test_URL" language="en" table="x_161387_snow_cicd_test_deployment_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test_url</element>
+            <help/>
+            <hint/>
+            <label>Test_URL</label>
+            <language>en</language>
+            <name>x_161387_snow_cicd_test_deployment_request</name>
+            <plural>Test_URLs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-06 22:17:02</sys_created_on>
+            <sys_id>00b0b4cadbdc2010669b48703996196f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test_URL</sys_name>
+            <sys_package display_value="Snow-CICD" source="x_161387_snow_cicd">9a6da00adbdc2010669b4870399619d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Snow-CICD">9a6da00adbdc2010669b4870399619d6</sys_scope>
+            <sys_update_name>sys_documentation_x_161387_snow_cicd_test_deployment_request_test_url_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-06 22:17:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
