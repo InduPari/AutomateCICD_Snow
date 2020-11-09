@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Test Deployment Request" max_length="40" name="x_161387_snow_cicd_test_deployment_request" type="collection">
+    <element extends="task" label="Test Deployment Request" max_length="40" name="x_161387_snow_cicd_test_deployment_request" sizeclass="1" type="collection">
         <element label="Dev_Credentials" max_length="32" name="dev_credentials" reference="sys_alias" type="reference"/>
         <element label="Dev_URL" max_length="1024" name="dev_url" type="url"/>
         <element label="Git_URL" max_length="1024" name="git_url" type="url"/>
